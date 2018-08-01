@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Spreadsheet_HMazhar", "Spreadsheet_HMazhar\Spreadsheet_HMazhar.csproj", "{1269D971-3013-41FF-BAE3-F05A29181CAC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpreadsheetEngine", "SpreadsheetEngine\SpreadsheetEngine.csproj", "{F6580195-E59D-49EB-88A5-CAE5DDA6CA80}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "expTree", "ExpTree\expTree.csproj", "{A036AD5C-6D1E-4F4F-B38B-B9F292EB1F40}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1269D971-3013-41FF-BAE3-F05A29181CAC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1269D971-3013-41FF-BAE3-F05A29181CAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1269D971-3013-41FF-BAE3-F05A29181CAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1269D971-3013-41FF-BAE3-F05A29181CAC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F6580195-E59D-49EB-88A5-CAE5DDA6CA80}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6580195-E59D-49EB-88A5-CAE5DDA6CA80}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6580195-E59D-49EB-88A5-CAE5DDA6CA80}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6580195-E59D-49EB-88A5-CAE5DDA6CA80}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A036AD5C-6D1E-4F4F-B38B-B9F292EB1F40}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A036AD5C-6D1E-4F4F-B38B-B9F292EB1F40}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A036AD5C-6D1E-4F4F-B38B-B9F292EB1F40}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A036AD5C-6D1E-4F4F-B38B-B9F292EB1F40}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
